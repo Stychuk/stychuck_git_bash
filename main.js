@@ -1,4 +1,4 @@
-let theme_id = "light";
+let theme_id = "light"; // Початкова тема (за замовчуванням світла).
 
 window.onload = function clickTheme() {
     let radios = document.getElementsByName("selected_topic");
